@@ -5,7 +5,7 @@
 
 1. Fork and clone the repository
     ```sh
-    git clone git@github.com:YOUR-USERNAME/LEAPDAO_REPONAME.git
+    git clone git@github.com:YOUR-USERNAME/BENCHMARK_REPONAME.git
     ```
 
 1. Create a branch in the fork
